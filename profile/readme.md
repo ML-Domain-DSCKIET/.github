@@ -7,24 +7,27 @@ Welcome to the ML Domain of DSC KIET, a community of machine learning enthusiast
 At DSC KIET, we strive to create an ecosystem of programmers and developers on our campus by helping them learn and build projects. We achieve this by organizing hackathons, events, codelabs, and meetups to engage student developers and provide them with opportunities to showcase their skills and learn from experts in the field.
 Our community is enthusiastic about machine learning, and we encourage members to share their ideas and projects with the rest of the community. We believe that collaboration is key to success, and we welcome everyone who is interested in ML to join us and become part of our community.
 
-## Teams
+## Team:
+2023:
 * Harsh Sharma
-* **Kushagra Srivastava [(@kushagrathisside)](https://github.com/kushagrathisside)   ML Lead**
+2024:
+* Kushagra Srivastava [(@kushagrathisside)](https://github.com/kushagrathisside) 
 * Kaustubh Gupta
-#### Team A Members
-* Ananya Srivastava [(@Ananya)](https://github.com/Ananya3632)    
-* Manas Rai [(@manasrai1406)](https://github.com/manasrai1406)   
+2025:
+* **Manas Rai [(@manasrai1406)](https://github.com/manasrai1406)   ML Lead**
+* Ananya Srivastava [(@Ananya)](https://github.com/Ananya3632)
+* Ritika Singh [ritikasingh1808](https://github.com/ritikasingh1808)
 * Shantanu Mishra [(@shantanu-mishraa)](https://github.com/shantanu-mishraa)   
-
-#### Team B Members
 * Shahnawaz [(@shahnawazdev)](https://github.com/shahnawazdev)   
-* Shivanshu Srivastava [(@Shivanshu400)](https://github.com/Shivanshu400) 
-* Yashraj Singh [(@yashrajcan)](https://github.com/yashrajcan)   
-
-#### Team C Members
+* Yashraj Singh [(@yashrajcan)](https://github.com/yashrajcan) 
+2026:
 * Ashutosh Singh [(@AshutoshSingh1028)](https://github.com/AshutoshSingh1028) 
 * Mohit Kumar Singh [(@metechmohit)](https://github.com/metechmohit)
-* Ritika Singh
+* Chaitanya Saini[Chaitany23](https://github.com/Chaitany23)
+* Abhimanyu Jaiswal[CodexAbhi](https://github.com/CodexAbhi)
+* Himanshu Singh [him1308](https://github.com/him1308)
+* Yash Bhardwaj [Yash-Bhardwaj2005](https://github.com/Yash-Bhardwaj2005)
+* Harshita Mishra [Harshitamishraz8](https://github.com/Harshitamishraz8)
 
 ## Join Us
 
